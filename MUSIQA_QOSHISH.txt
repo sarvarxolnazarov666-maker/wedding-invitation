@@ -1,0 +1,10 @@
+ARSLONBEK VA SHAXNOZAXON TAKLIFNOMASI — FON MUSIQASI
+
+Fon musiqasi MP3 fayli ushbu paketga qo‘shilgan: azizam.mp3.
+
+QANDAY ISHLATILADI:
+1. ZIP arxivni to‘liq bitta papkaga chiqaring.
+2. Shu papkadagi index.html faylini Chrome yoki Edge brauzerida oching.
+3. “Taklifnomani ochish” tugmasini bosing. Izzat Shukurov — “Azizam” MP3 qo‘shig‘i fon rejimida boshlanadi.
+4. O‘ng pastdagi kichik ♫ tugmasi bilan musiqani to‘xtatish yoki davom ettirish mumkin.
+5. MP3 faylini index.html bilan bir papkada saqlang; u alohida qolsa yoki nomi o‘zgarsa, fon musiqasi topilmaydi.
